@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TextEditor/TextEditor.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TextEditor.Tests/TextEditor.Tests.csproj" />
+  </Folder>
+</Solution>
