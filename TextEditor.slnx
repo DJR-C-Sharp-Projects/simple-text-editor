@@ -3,6 +3,6 @@
     <Project Path="src/TextEditor/TextEditor.csproj" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests/TextEditor.Tests/TextEditor.Tests.csproj" />
+    <Project Path="tests/TextEditor.Tests/TextEditor.UnitTests.csproj" />
   </Folder>
 </Solution>
