@@ -19,7 +19,7 @@ public class DocumentTests
     {
         var document = new Document();
 
-        Assert.Equal(Document.DefaultName, document.Name);
+        Assert.Equal(Document.DEFAULT_NAME, document.Name);
     }
 
     [Fact(DisplayName = "New document: Encoding is UTF-8")]
