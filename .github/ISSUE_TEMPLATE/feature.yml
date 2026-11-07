@@ -1,0 +1,24 @@
+name: Feature
+description: A new feature or model
+title: "feat(<scope>): "
+type: Feature
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What should be built?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      placeholder: "- Criterion 1"
+    validations:
+      required: true
+  - type: input
+    id: depends
+    attributes:
+      label: Depends on
+      placeholder: "none, or #issue-number"
