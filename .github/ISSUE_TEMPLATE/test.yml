@@ -1,5 +1,5 @@
 name: Test
-description: Unit or integration tests for an existing feature
+description: Integration or E2E tests for existing components and features
 title: "test(<scope>): "
 body:
   - type: textarea
