@@ -1,8 +1,8 @@
 ﻿using System.Text;
-using NotepadApp.Infrastructure;
+using TextEditor.Core.Infrastructure;
 using Xunit;
 
-namespace NotepadApp.Tests.Infrastructure;
+namespace TextEditor.Tests.Infrastructure;
 
 [Trait("Layer", "Infrastructure")]
 [Trait("Component", "FileService")]

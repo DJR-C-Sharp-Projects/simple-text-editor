@@ -3,7 +3,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TextEditor.Core.Interfaces;
 
-namespace NotepadApp.Infrastructure;
+namespace TextEditor.Core.Infrastructure;
 
 public class FileService : IFileService
 {
